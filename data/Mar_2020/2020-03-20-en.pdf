@@ -1,0 +1,153 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]> <html class="no-js ie6 oldie" lang="en-US"> <![endif]-->
+<!--[if IE 7]>    <html class="no-js ie7 oldie" lang="en-US"> <![endif]-->
+<!--[if IE 8]>    <html class="no-js ie8 oldie" lang="en-US"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en-US"> <!--<![endif]-->
+<head>
+<title>Attention Required! | Cloudflare</title>
+<meta name="captcha-bypass" id="captcha-bypass" />
+<meta charset="UTF-8" />
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=Edge,chrome=1" />
+<meta name="robots" content="noindex, nofollow" />
+<meta name="viewport" content="width=device-width,initial-scale=1" />
+<link rel="stylesheet" id="cf_styles-css" href="/cdn-cgi/styles/cf.errors.css" type="text/css" media="screen,projection" />
+<!--[if lt IE 9]><link rel="stylesheet" id='cf_styles-ie-css' href="/cdn-cgi/styles/cf.errors.ie.css" type="text/css" media="screen,projection" /><![endif]-->
+<style type="text/css">body{margin:0;padding:0}</style>
+
+
+<!--[if gte IE 10]><!-->
+<script>
+  if (!navigator.cookieEnabled) {
+    window.addEventListener('DOMContentLoaded', function () {
+      var cookieEl = document.getElementById('cookie-alert');
+      cookieEl.style.display = 'block';
+    })
+  }
+</script>
+<!--<![endif]-->
+
+
+
+
+<style type="text/css">
+  #cf-wrapper #spinner {width:69px; margin:  auto;}
+  #cf-wrapper #cf-please-wait{text-align:center}
+  .attribution {margin-top: 32px;}
+  .bubbles { background-color: #f58220; width:20px; height: 20px; margin:2px; border-radius:100%; display:inline-block; }
+  #cf-wrapper #challenge-form { padding-top:25px; padding-bottom:25px; }
+  #cf-hcaptcha-container { text-align:center;}
+  #cf-hcaptcha-container iframe { display: inline-block;}
+  @keyframes fader     { 0% {opacity: 0.2;} 50% {opacity: 1.0;} 100% {opacity: 0.2;} }
+  #cf-wrapper #cf-bubbles { width:69px; }
+  @-webkit-keyframes fader { 0% {opacity: 0.2;} 50% {opacity: 1.0;} 100% {opacity: 0.2;} }
+  #cf-bubbles > .bubbles { animation: fader 1.6s infinite;}
+  #cf-bubbles > .bubbles:nth-child(2) { animation-delay: .2s;}
+  #cf-bubbles > .bubbles:nth-child(3) { animation-delay: .4s;}
+</style>
+</head>
+<body>
+  <div id="cf-wrapper">
+    <div class="cf-alert cf-alert-error cf-cookie-error" id="cookie-alert" data-translate="enable_cookies">Please enable cookies.</div>
+    <div id="cf-error-details" class="cf-error-details-wrapper">
+      <div class="cf-wrapper cf-header cf-error-overview">
+        <h1 data-translate="challenge_headline">One more step</h1>
+        <h2 class="cf-subheadline"><span data-translate="complete_sec_check">Please complete the security check to access</span> www.rki.de</h2>
+      </div><!-- /.header -->
+      
+      <div class="cf-section cf-highlight cf-captcha-container">
+        <div class="cf-wrapper">
+          <div class="cf-columns two">
+            <div class="cf-column">
+            
+              <div class="cf-highlight-inverse cf-form-stacked">
+                <form class="challenge-form" id="challenge-form" action="/DE/Content/InfAZ/N/Neuartiges_Coronavirus/Situationsberichte/2020-03-20-en.pdf?__blob=publicationFile&amp;__cf_chl_captcha_tk__=daaa326dfbd356c4bb49cdd9c57fcf18c2a73523-1603385470-0-ATCyOuTE4OGzGjpWlxAvLQqITT_zfQJ7xcGpIqEAYtoVpQ8Un-AWHRWHJfDSpGqeuup3QBO0FGyBdFIYHj4zWtAMPzvGpurIEmgoBuOze7WChyhqBo8Kkcsy4RH4Ycpmkzt2EB0xXARh8ph0SlqXTvJJG88plKG-KZiDgoSLZ_9MEFgZ0wxE6shRc0voeqTo14vle7NP3SumfE1ijMIGtyVlTsyc3vjTHYHSVlaxvhzdSQWfbX1u39eU8PMaRe3rQQCExsqgS7bwndqGSY_0BcDBhS6a0Z6h2WylPf5qhhBwhj4YpIpkZI8LoSIG62F0Q51ilmPzzFjzmwjs0BpTuchvnP1mvpX0QwBMA2S9VBZWVGtBYHaHQMvdtC5MbPPu0JqWPehLev5RKyOqSFg1Bh8gJa4D-7N5IlwDDcaRaqwGnqjhPQCbdarViS-31ArZqgZFp0GhQZgfUVCsBWOso_e4pYbmEpZqF9kIMaflcFTAhOv9P2eU7oZ801dITgpdWHojFGkbl6_2JjXxAWC1ilxdUw-BitudE-O9yzsjTjOfkJZI2TWNxlSY0j8eUoHFqRvn3wLjyZ6_NWIhhi-F537n4hVEm5fNB1jbLTWfmU0IjuX286WPvdwX9p9lB-M0nkw0Tei6sfZ57Z6h56eTpK0yBKGPo1x9n_mlM3_uARPQAdjRxS2-X6koDyL3UB__DA" method="POST" enctype="application/x-www-form-urlencoded">
+  
+  <input type="hidden" name="r" value="77c371d45b79a0597007048c44ec21e4af7724df-1603385470-0-AfkPZi7aaoRy0t6MLpsqBFvf3rhfHMPrkCp4vNJvbgISXzDSHCl37fyQXzzU/+u2jh4Dgo9CuZqoKXsqQVpUGeRda476XtiGmkD74Mv6Gt7VVaaU9nUBZ0Jt6IxKTmJBacs5Ia9e8zycrPjBlqjBlhV7p+3giyL7ZrqSWEQJ0k9PK2ZgHosOamWkX6ZB74Yk4HWTvuiHFf+cL1yrz9XW2oZm+qsJjkdcvpTQEzyE2JMY7Ob7Ij/JPVsr+5yC1IUHLa8FvoZcKv9OHlyttwXOuWbfuLNMb+HhkxIWXNoLsdlQeBlLyYgGNLLMqN1wlV2X8vk7NAYjyWT1xxez6B8To1oIrlR4gjxFW1WYIWgSr0NWTpuPV0Y6y7BflaZjAbxKuUt5IhAAxLwvfz8Bzf047fgPuTCeKhkDDxcboCj540ux4lZMEa2qRhc/diKZFai9RbxSfgk1xfzUIZ1O1oF0NxMWCvpiKmi8AhGsVY3w84Du2F78axbm4E4GwihTzeBICAwlabQt5mAOQsM6qpp7l/cGPFTBKF9xdf2c1+tjGJnZG5nwKDpAZbocy5XJmRFP7w2wWVnLRFMnddKt9d7/pZpzUUMVciCSj2FS8B29dz0aqbO2Ez1ZjqBwfOFgoIrbS9qDzsfq2kxwN4M/feeo6q51CJ7couxAPWuA5pnB/Y6XG+8jmC1fyoz7+sKgb7SArG4Dlv/2bl0A6C88NfNJBDDKoXzjI9hzawXrOwwDFg0HRlKolpbVH37PuZYxV+03jsVNGu9gqv9+IOxD2G0Ng374W3BmBg8usFDvEQv9ti4hjmdGkmiWjz0Ji3WlwozsLIiCnKM4i/eNMFRXZTNaauYzNZOC92wDVuH/ivc4W6xg+DFXuST6RAvTMIjcCmT2HZ63BODzlxSlCJ2vHR4p/Dr6yVrtuvWF+7t4aFpGCtyEyPh8b3394o1hcgnbZ5FcJoWzeUa4fsjxgPbablnk30lsficimTnfO/5wQacU+fg7er6K4xiwOAfjuaf7lVEx1iBB7B/aUgXhoBxOZTaUHKRIpdWuPd8n1K0jJ6dsmUgkWQl4dyqxby/iryN8h6rt9udbZ4Ghg8VZRAs2cQOczl/qkJ/1s5rHlSP1ZnTAGVAlGHoqK22X0xSoaTCj4mqcyv3ioZRMrzQ6iRoCtbF7c/pgKDejLsrdHuIvuHokMzd+EZqPJU+uPb6mhzcV0wwP5WU0iI3sVOLN4+hYioWK24efUsVpe+EddAnWUQp/7/ERK9FyZKBTQOvjhfpwVSK7OmixzpJXEjFeDneEzvX2TJgFjsG75Zpax9SQVLX8TCRlBDYIggWiCjNHC+haTKkoVlaCp4dwJw7AmI0B6NjFGWuTF82zWp50w3uv4dbMH4rtHjFHNB4SgOzO32O5/mV5n7CL6emI4bnYUDfk1uLvhmlGMURAtEqVg4FDEX6lNXBPSrWcoKqrHm0yW/RNlgXPggNHwXcT5PVHAmDencyqwgWo/GEoo62fK+MRUyy65XaJBJtoZjMrc/UNYTmxvSpYLyfm43Ryfc+KtjPVD6Ye552jUKlcZywXjRCrJHyQQ5Bqn4yZb2DKEHmmh5XbEbn8iFppQhqZIKnWxmOT9H0TqTvsxK6H/Pdlk7q1FfQmKzwSG0ErSNbBcpDLl3yVlxu/dTAVBh6L4QAh5kfQXxHUe/2Iv4F9A/UzUwLwtQCTfVtjw9jpB48019l6p4/u+/sqhA==">
+  <input type="hidden" name="cf_captcha_kind" value="h">
+  <input type="hidden" name="vc" value="">
+  
+  <script type="text/javascript" src="/cdn-cgi/scripts/hcaptcha.challenge.js" data-type="normal" data-ray="5e64b8b519502b12" async data-sitekey="33f96e6a-38cd-421b-bb68-7806e1764460"></script>
+  
+  <noscript id="cf-captcha-bookmark" class="cf-captcha-info">
+  <h1 data-translate="turn_on_js" style="color:#bd2426;">Please turn JavaScript on and reload the page.</h1>
+  </noscript>
+  <div id="no-cookie-warning" data-translate="turn_on_cookies" style="display:none">
+    <h1 data-translate="turn_on_cookies" style="color:#bd2426;">Please enable Cookies.</h1>
+  </div>
+  <script type="text/javascript">
+  //<![CDATA[
+    var a = function() {try{return !!window.addEventListener} catch(e) {return !1} },
+      b = function(b, c) {a() ? document.addEventListener("DOMContentLoaded", b, c) : document.attachEvent("onreadystatechange", b)};
+      b(function(){
+        var cookiesEnabled=(navigator.cookieEnabled)? true : false;
+        if(!cookiesEnabled){
+          var q = document.getElementById('no-cookie-warning');q.style.display = 'block';
+        }
+      });
+  //]]>
+  </script>
+  <div id="trk_captcha_js" style="background-image:url('/cdn-cgi/images/trace/captcha/nojs/h/transparent.gif?ray=5e64b8b519502b12')"></div>
+</form>
+
+              </div>
+            </div>
+
+            <div class="cf-column">
+              <div class="cf-screenshot-container">
+              
+                <span class="cf-no-screenshot"></span>
+              
+              </div>
+            </div>
+          </div><!-- /.columns -->
+        </div>
+      </div><!-- /.captcha-container -->
+
+      <div class="cf-section cf-wrapper">
+        <div class="cf-columns two">
+          <div class="cf-column">
+            <h2 data-translate="why_captcha_headline">Why do I have to complete a CAPTCHA?</h2>
+            
+            <p data-translate="why_captcha_detail">Completing the CAPTCHA proves you are a human and gives you temporary access to the web property.</p>
+          </div>
+
+          <div class="cf-column">
+            <h2 data-translate="resolve_captcha_headline">What can I do to prevent this in the future?</h2>
+            
+
+            <p data-translate="resolve_captcha_antivirus">If you are on a personal connection, like at home, you can run an anti-virus scan on your device to make sure it is not infected with malware.</p>
+
+            <p data-translate="resolve_captcha_network">If you are at an office or shared network, you can ask the network administrator to run a scan across the network looking for misconfigured or infected devices.</p>
+            
+              
+            
+          </div>
+        </div>
+      </div><!-- /.section -->
+      
+
+      <div class="cf-error-footer cf-wrapper w-240 lg:w-full py-10 sm:py-4 sm:px-8 mx-auto text-center sm:text-left border-solid border-0 border-t border-gray-300">
+  <p class="text-13">
+    <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">5e64b8b519502b12</strong></span>
+    <span class="cf-footer-separator sm:hidden">&bull;</span>
+    <span class="cf-footer-item sm:block sm:mb-1"><span>Your IP</span>: 84.154.216.70</span>
+    <span class="cf-footer-separator sm:hidden">&bull;</span>
+    <span class="cf-footer-item sm:block sm:mb-1"><span>Performance &amp; security by</span> <a href="https://www.cloudflare.com/5xx-error-landing" id="brand_link" target="_blank">Cloudflare</a></span>
+    
+  </p>
+</div><!-- /.error-footer -->
+
+
+    </div><!-- /#cf-error-details -->
+  </div><!-- /#cf-wrapper -->
+
+  <script type="text/javascript">
+  window._cf_translation = {};
+  
+  
+</script>
+
+
+</body>
+</html>
