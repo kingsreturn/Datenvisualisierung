@@ -1,0 +1,25 @@
+{
+  "name": "datenvisualisierung",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kingsreturn/Datenvisualisierung.git"
+  },
+  "keywords": [
+    "data",
+    "processing",
+    "visualization",
+    "angular"
+  ],
+  "author": "Yang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kingsreturn/Datenvisualisierung/issues"
+  },
+  "homepage": "https://github.com/kingsreturn/Datenvisualisierung#readme"
+}
