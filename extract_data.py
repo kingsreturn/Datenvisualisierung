@@ -4,6 +4,8 @@ import openpyxl
 import os
 import xlwt
 import datetime
+#import win32com
+#from win32com.client import constants as c
 
 def generate_Path(FolderPath):
     if not os.path.exists('./'+FolderPath):
@@ -12,11 +14,11 @@ def generate_Path(FolderPath):
 
 def SavePathToList():
     months = {
-        #'Mar_2020': [3, 10, 32],
-        #'Apr_2020': [4, 1, 31],
-        #'Mai_2020': [5, 1, 32],
-        #'Jun_2020': [6, 1, 31],
-        #'Jul_2020': [7, 1, 32],
+        'Mar_2020': [3, 10, 32],
+        'Apr_2020': [4, 1, 31],
+        'Mai_2020': [5, 1, 32],
+        'Jun_2020': [6, 1, 31],
+        'Jul_2020': [7, 1, 32],
         'Aug_2020': [8, 1, 32],
         'Sept_2020': [9, 1, 31],
         'Okt_2020': [10, 1, 19]
@@ -25,7 +27,7 @@ def SavePathToList():
     for month in months.keys():
         for diff in range(months[month][1],months[month][2]):
             date = datetime.date.today().replace(month=months[month][0], day=diff)
-            pdfname = './data/'+month + '/'+ str(date) + '-de.pdf'
+            pdfname = './'+month + '/'+ str(date) + '-de.pdf'
             PathList.append(pdfname)
     print(PathList)
     return PathList
@@ -43,7 +45,7 @@ def read_pdf(path,page):
     else:
         print(path[-17:] + " is not found!")
         return None
-    return page;
+    return page
 
 def extract_data(path):
     if os.path.exists(path):
@@ -52,7 +54,7 @@ def extract_data(path):
             page = pdf.pages[2]
         else:
             page = pdf.pages[1]
-        #print(page.extract_text())
+        print(page.extract_text())
         print(path[-17:] + " is already read!")
     else:
         print(path[-17:] + " is not found!")
@@ -127,8 +129,9 @@ def SaveToExcel(FilePath,SheetName,PathList):
         "Schleswig-Holstein",
         "Sachsen",
         "Sachsen-Anhalt",
-        "Thüringen"]
-    for line in range(0,16):
+        "Thüringen",
+        "Gesamt"]
+    for line in range(0,17):
         sheet1.write(line,0,bundesland[line])
     #workbook.save(FilePath)
     column = 1
@@ -141,7 +144,11 @@ def SaveToExcel(FilePath,SheetName,PathList):
         column+=1
         #if column == 20:
             #break
+
     workbook.save(FilePath)
+def close_File(Path):
+    if not os.path.exists(Path):
+        print(Path, " not exist, try to create it.")
 
 def page(path):
     month = int(path[-12:-10])
@@ -158,14 +165,15 @@ def printnumber(PathList):
         page = read_pdf(path, 1)
         number = extract_data(page)
 
-PathList = SavePathToList()
+#PathList = SavePathToList()
 #print(read_pdf('./Aug_2020/2020-08-31-de.pdf',3).extract_text())
 #extract_data(read_pdf('./Aug_2020/2020-08-31-de.pdf',3))
 #print(read_pdf('./data/Aug_2020/2020-08-07-de.pdf',3).extract_text())
-extract_data('./data/Aug_2020/2020-08-31-de.pdf')
+extract_data('./Apr_2020/2020-04-14-de.pdf')
 #extract_data('./data/Aug_2020/2020-08-07-de.pdf')
 #(read_pdf('./Mar_2020/2020-03-04-de.pdf',1))
 #printnumber(PathList)
+#close_File('./Infektionsnumber.xls')
 
 #SaveToExcel('./Infektionsnumber.xls', 'numbers',PathList)
 
