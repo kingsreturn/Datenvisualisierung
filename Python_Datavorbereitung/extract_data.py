@@ -1,6 +1,5 @@
 import pdfplumber
 import re
-import openpyxl
 import os
 import xlwt
 import datetime
